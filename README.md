@@ -2,18 +2,23 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF4B91&center=true&vCenter=true&width=700&lines=Hey+There!+I+am+Indresh;MERN+Stack+Developer;AI+Enthusiast;Problem+Solver" />
 </p>
 
+---
 
 # 🌐 Connect With Me
 
-<p align="center" style="display:flex; justify-content:center; gap:30px;">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/indresh-kumar-ba8043330/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
 </a>
 
+        
+
 <a href="https://leetcode.com/u/Indresh88762/" target="_blank">
 <img src="https://cdn.simpleicons.org/leetcode" height="55" />
 </a>
+
+        
 
 <a href="mailto:indreshkumarsingh64@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="55" />
@@ -21,8 +26,7 @@
 
 </p>
 
-
-
+---
 
 # 🧠 Tech Stack
 
@@ -73,11 +77,11 @@
 ### 🧩 Problem Solving
 
 <p align="center">
-  
 💡 Solved 500+ DSA Problems on LeetCode
-
 </p>
-```
+
+---
+
 # 💻 LeetCode Stats
 
 <p align="center">
@@ -98,7 +102,7 @@
 
 # 📈 GitHub Activity Graph
 
-[![Indresh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=indreshgit10&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Indresh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=indreshgit10\&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -110,36 +114,30 @@
 
 ---
 
-
 # 🚀 Projects
-
----
-
 
 ## 💪 Healthier – Fitness Companion (MERN)
 
-🔹 Full-stack fitness platform to track calories, workouts, and fitness goals.  
+🔹 Full-stack fitness platform to track calories, workouts, and fitness goals.
 
-🔹 Integrated AI-powered food image analysis for nutritional insights and calorie estimation.  
+🔹 Integrated AI-powered food image analysis for nutritional insights and calorie estimation.
 
-🔹 Implemented authentication, REST APIs, responsive UI, and interactive dashboards.  
+🔹 Implemented authentication, REST APIs, responsive UI, and interactive dashboards.
 
 🛠️ Tech Stack: MongoDB, Express.js, React, Node.js, AI APIs
-
 
 ---
 
 ## 🛒 CampusCart – College Marketplace (MERN)
 
-🔹 Full-stack marketplace platform for students to buy/sell notes, gadgets, and academic materials.  
+🔹 Full-stack marketplace platform for students to buy/sell notes, gadgets, and academic materials.
 
-🔹 Implemented secure authentication, Razorpay payment integration, Cloudinary uploads, and REST APIs.  
+🔹 Implemented secure authentication, Razorpay payment integration, Cloudinary uploads, and REST APIs.
 
-🔹 Built an AI Mind Map Generator converting text/voice into interactive diagrams.  
+🔹 Built an AI Mind Map Generator converting text/voice into interactive diagrams.
 
 🛠️ Tech Stack: MongoDB, Express.js, React, Node.js, Razorpay, Cloudinary
 
 🌐 Live Website: https://campuscarts.in
 
 ---
-
