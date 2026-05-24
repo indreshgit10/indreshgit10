@@ -1,13 +1,12 @@
-
-<h3 align="center">
-
-</h3>
+<h1 align="center">
+  Hi there! I'm Indresh Kumar 👋
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Hi,There+I+ am +Indresh+Full+Stack+Developer;C%2B%2B+Programmer;Backend+Developer;React+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF4B91&center=true&vCenter=true&width=700&lines=;MERN+Stack+Developer;DSA+Problem+Solver;Building+Real+World+Projects" />
 </p>
+```
 
----
 
 
 
@@ -84,7 +83,13 @@
 
 </p>
 ```
+# 💻 LeetCode Stats
 
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/Indresh88762?theme=dark&font=Nunito&ext=contest" />
+</p>
+
+---
 
 # 📊 GitHub Stats
 
@@ -110,28 +115,11 @@
 
 ---
 
-# 💻 LeetCode Stats
 
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/Indresh88762?theme=dark&font=Nunito&ext=contest" />
-</p>
-
----
 # 🚀 Projects
 
 ---
 
-## 🧠 NeuroCalm – AI-Based Brain Computer Interface System
-
-🔹 AI-driven Brain-Computer Interface (BCI) system for real-time FOMO detection using EEG-based neural signal analysis.  
-
-🔹 Integrates AI, IoT, and cloud-based ML models to monitor neural activity and user behavior.  
-
-🔹 Provides real-time interventions, alerts, and personalized mental health insights.  
-
-🛠️ Tech Stack: AI, Machine Learning, IoT, Cloud Computing
-
----
 
 ## 💪 Healthier – Fitness Companion (MERN)
 
@@ -143,7 +131,6 @@
 
 🛠️ Tech Stack: MongoDB, Express.js, React, Node.js, AI APIs
 
-🔗 GitHub Repository: https://github.com/indreshgit10
 
 ---
 
@@ -161,12 +148,3 @@
 
 ---
 
-## 🎮 Rock Paper Scissors Web Game
-
-🔹 Interactive browser-based game with responsive UI and score tracking.  
-
-🔹 Built using vanilla JavaScript with dynamic DOM manipulation and animations.  
-
-🛠️ Tech Stack: HTML, CSS, JavaScript
-
----
