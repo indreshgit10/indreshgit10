@@ -1,9 +1,6 @@
-<h1 align="center">
-  Hi there! I'm Indresh Kumar 
-</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF4B91&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;DSA+Problem+Solver;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF4B91&center=true&vCenter=true&width=700&lines=HEY +There+I+am+Indresh;MERN+Stack+Developer;AI+Enthusiast;Problem+Solver" />
 </p>
 ```
 
