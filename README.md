@@ -3,24 +3,25 @@
 </p>
 
 
-
 # 🌐 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/indresh-kumar-ba8043330/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="50" />
+<p align="center" style="display:flex; justify-content:center; gap:30px;">
+
+<a href="https://www.linkedin.com/in/indresh-kumar-ba8043330/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55" />
 </a>
 
-<a href="https://leetcode.com/u/Indresh88762/" target="blank">
-<img align="center" src="https://cdn.simpleicons.org/leetcode" height="50" />
+<a href="https://leetcode.com/u/Indresh88762/" target="_blank">
+<img src="https://cdn.simpleicons.org/leetcode" height="55" />
 </a>
 
 <a href="mailto:indreshkumarsingh64@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="50" />
+<img src="https://skillicons.dev/icons?i=gmail" height="55" />
 </a>
+
 </p>
 
----
+
 
 
 # 🧠 Tech Stack
