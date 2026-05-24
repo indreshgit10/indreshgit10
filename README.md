@@ -1,25 +1,15 @@
 
-<h1 align="center">Hi 👋, I'm Indresh </h1>
-
 <h3 align="center">
 
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;AI+Enthusiast;C%2B%2B+Programmer;Backend+Developer;React+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Hi,There+I+ am +Indresh+Full+Stack+Developer;C%2B%2B+Programmer;Backend+Developer;React+Developer" />
 </p>
 
 ---
 
-# 🚀 About Me
 
-- 🔭 Currently working on: AI-powered full-stack applications
-- 🌱 Currently learning: Backend Development & System Design
-- 💬 Ask me about: C++, JavaScript, React, Node.js
-- ⚡ Fun fact: I love building real-world projects and solving DSA problems
-- 🎯 Goal: Become a top AI + Full Stack Engineer
-
----
 
 # 🌐 Connect With Me
 
@@ -39,33 +29,62 @@
 
 ---
 
-# 💻 Tech Stack
 
-## 🚀 Languages
+# 🧠 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,c,js,ts,python,java" />
-</p>
-
-## 🎨 Frontend
+### ⚙️ Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" />
-</p>
-
-## ⚙️ Backend & Database
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</p>
-
-## 🛠️ Tools & Technologies
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase,linux" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,js,sql" />
 </p>
 
 ---
+
+### 🌐 Frontend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
+
+---
+
+### 🖥️ Backend & APIs
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+
+---
+
+### 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+---
+
+### ☁️ Cloud, DevOps & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode,postman,linux" />
+</p>
+
+---
+
+### 🧩 Problem Solving
+
+<p align="center">
+  
+💡 Solved 500+ DSA Problems on LeetCode
+
+</p>
+```
+
 
 # 📊 GitHub Stats
 
@@ -98,27 +117,56 @@
 </p>
 
 ---
-
-# 📌 Featured Projects
-
-- 🚀 LeanOut Fitness App
-- 🧠 AI Mind Map Generator
-- 🎮 Rock Paper Scissors Web Game
-- 🔐 Authentication System
+# 🚀 Projects
 
 ---
 
-# 👀 Profile Views
+## 🧠 NeuroCalm – AI-Based Brain Computer Interface System
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=indreshgit10&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+🔹 AI-driven Brain-Computer Interface (BCI) system for real-time FOMO detection using EEG-based neural signal analysis.  
+
+🔹 Integrates AI, IoT, and cloud-based ML models to monitor neural activity and user behavior.  
+
+🔹 Provides real-time interventions, alerts, and personalized mental health insights.  
+
+🛠️ Tech Stack: AI, Machine Learning, IoT, Cloud Computing
 
 ---
 
-# ⚡ Fun Quote
+## 💪 Healthier – Fitness Companion (MERN)
 
-<p align="center">
-"Consistency beats motivation."
-</p>
+🔹 Full-stack fitness platform to track calories, workouts, and fitness goals.  
 
+🔹 Integrated AI-powered food image analysis for nutritional insights and calorie estimation.  
+
+🔹 Implemented authentication, REST APIs, responsive UI, and interactive dashboards.  
+
+🛠️ Tech Stack: MongoDB, Express.js, React, Node.js, AI APIs
+
+🔗 GitHub Repository: https://github.com/indreshgit10
+
+---
+
+## 🛒 CampusCart – College Marketplace (MERN)
+
+🔹 Full-stack marketplace platform for students to buy/sell notes, gadgets, and academic materials.  
+
+🔹 Implemented secure authentication, Razorpay payment integration, Cloudinary uploads, and REST APIs.  
+
+🔹 Built an AI Mind Map Generator converting text/voice into interactive diagrams.  
+
+🛠️ Tech Stack: MongoDB, Express.js, React, Node.js, Razorpay, Cloudinary
+
+🌐 Live Website: https://campuscarts.in
+
+---
+
+## 🎮 Rock Paper Scissors Web Game
+
+🔹 Interactive browser-based game with responsive UI and score tracking.  
+
+🔹 Built using vanilla JavaScript with dynamic DOM manipulation and animations.  
+
+🛠️ Tech Stack: HTML, CSS, JavaScript
+
+---
