@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi 👋, I'm Indresh </h1>
 
 <h3 align="center">
@@ -121,4 +121,4 @@
 <p align="center">
 "Consistency beats motivation."
 </p>
-```
+
