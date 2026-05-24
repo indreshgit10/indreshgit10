@@ -7,23 +7,21 @@
 # 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/indresh-kumar-ba8043330/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="55" />
-</a>
-
-        
-
-<a href="https://leetcode.com/u/Indresh88762/" target="_blank">
-<img src="https://cdn.simpleicons.org/leetcode" height="55" />
-</a>
-
-        
-
-<a href="mailto:indreshkumarsingh64@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="55" />
-</a>
-
+  <a href="https://www.linkedin.com/in/indresh-kumar-ba8043330/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
+  </a>
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://leetcode.com/u/Indresh88762/" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode" height="55" />
+  </a>
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <a href="mailto:indreshkumarsingh64@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="55" />
+  </a>
 </p>
 
 ---
